@@ -8,8 +8,5 @@
 </p>
 
 <p align="center">
-  😍 my stats <br>
-
-  ![Badcast's GitHub stats](https://github-readme-stats.vercel.app/api?username=badcast&show_icons=true&theme=tokyonight)
-
+   ![Badcast's GitHub stats](https://github-readme-stats.vercel.app/api?username=badcast&show_icons=true&theme=tokyonight)
 </p>
