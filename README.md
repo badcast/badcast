@@ -6,7 +6,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/badcast/count.svg" />
 </p>
-
-<p align="center">
-   ![Badcast's GitHub stats](https://github-readme-stats.vercel.app/api?username=badcast&show_icons=true&theme=tokyonight)
-</p>
